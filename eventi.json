@@ -599,6 +599,66 @@
       "fonte": "https://www.francigenaultramarathon.com/",
       "verifica": "organizzatore",
       "note": "Data pubblicata sul sito dell’organizzatore; ricontrollare prima di partire."
+    },
+    {
+      "id": "auto-4838462dea9c6c95",
+      "nome": "28ª MARCIA DEI TRI CAPITEI",
+      "data": "2026-12-06",
+      "luogo": "Via Palesella, 42C - Cerea",
+      "regione": "Veneto",
+      "tipo": "Camminata",
+      "distanza": "6 - 12 - 19 km",
+      "fonte": "https://www.fiaspverona.org/index.php/calendario-eventi/202-tri-capitei/2026-12-06-00-00",
+      "verifica": "VERIFICATO",
+      "note": "Fonte FIASP Verona; organizzatore: Ass. Quartiere Palesella G.P.; nessun annullamento segnalato nella scheda al controllo del 2026-11-25"
+    },
+    {
+      "id": "auto-1987be815f8ad75b",
+      "nome": "38° MARCIA DEL MANDORLATO",
+      "data": "2026-12-13",
+      "luogo": "Cologna Veneta, Via XX marzo 68 presso Palazzetto dello sport Comunale",
+      "regione": "Veneto",
+      "tipo": "Camminata",
+      "distanza": "6 - 11 - 17 km",
+      "fonte": "https://www.fiaspverona.org/index.php/calendario-eventi/2026-marcia-del-mandorlato/2026-12-13-17-30",
+      "verifica": "VERIFICATO",
+      "note": "Fonte FIASP Verona; organizzatore: Podistica Colognese; nessun annullamento segnalato nella scheda al controllo del 2026-11-25"
+    },
+    {
+      "id": "auto-65a5f77ff6d42138",
+      "nome": "39ª CAMINADA DE BACO",
+      "data": "2027-01-06",
+      "luogo": "Bovolone Via Casella",
+      "regione": "Veneto",
+      "tipo": "Camminata",
+      "distanza": "6 - 12 -18 km",
+      "fonte": "https://www.fiaspverona.org/index.php/calendario-eventi/2027-caminada-de-baco/2027-01-06-00-00",
+      "verifica": "VERIFICATO",
+      "note": "Fonte FIASP Verona; organizzatore: Gruppo Sociale Sportivo Casella; nessun annullamento segnalato nella scheda al controllo del 2026-11-25"
+    },
+    {
+      "id": "auto-bf332ee5f7ecb5a3",
+      "nome": "47ª CAMINADA DE SAN BIAGIO",
+      "data": "2027-01-24",
+      "luogo": "Bovolone Centro Sportivo S. Pierino Via Creari 32",
+      "regione": "Veneto",
+      "tipo": "Camminata",
+      "distanza": "6 - 13 km",
+      "fonte": "https://www.fiaspverona.org/index.php/calendario-eventi/2027-caminada-de-san-biagio/2027-01-24-00-00",
+      "verifica": "VERIFICATO",
+      "note": "Fonte FIASP Verona; organizzatore: G.P. Gli Sbandati; nessun annullamento segnalato nella scheda al controllo del 2026-11-25"
+    },
+    {
+      "id": "auto-810b4bb99afb3939",
+      "nome": "18ª PASSI NEL TEMPO - MARCIA GUIDATA",
+      "data": "2027-01-16",
+      "luogo": "Monteforte d’Alpone P.za Salvo d'Acquisto",
+      "regione": "Veneto",
+      "tipo": "Camminata",
+      "distanza": "10 km",
+      "fonte": "https://www.fiaspverona.org/index.php/calendario-eventi/2027-passi-nel-tempo/2027-01-16-00-00",
+      "verifica": "VERIFICATO",
+      "note": "Fonte FIASP Verona; organizzatore: A.S.D. Valdapone; nessun annullamento segnalato nella scheda al controllo del 2026-11-25"
     }
   ]
 }

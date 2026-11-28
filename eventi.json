@@ -899,6 +899,30 @@
       "fonte": "https://www.fiaspverona.org/index.php/calendario-eventi/2027-el-giro-del-tartaro/2027-01-10-00-00",
       "verifica": "organizzatore",
       "note": "Fonte FIASP Verona; organizzatore: Olimpia Club Vigasio A.S.D.; nessun annullamento segnalato nella scheda al controllo del 2026-11-28; Informazioni soggette a variazioni: consultare la fonte prima di partecipare."
+    },
+    {
+      "id": "auto-bab8cc96d5295196",
+      "nome": "CORRI PER TELETHON",
+      "data": "2026-12-06",
+      "luogo": "Bonate Sotto (BG)",
+      "regione": "Lombardia",
+      "tipo": "Camminata",
+      "distanza": "Da consultare",
+      "fonte": "https://fiaspbergamo.it/manifestazioni/",
+      "verifica": "organizzatore",
+      "note": "Calendario ludico-motorio FIASP Bergamo e Brescia; verificare modalità di partecipazione con gli organizzatori.; Informazioni soggette a variazioni: consultare la fonte prima di partecipare."
+    },
+    {
+      "id": "auto-8f6346c3bdbcfff5",
+      "nome": "19ª CAMMINATA \"BERGAMO HA UN CUORE GRANDE\" PER LA SOLIDARIETA'",
+      "data": "2026-12-13",
+      "luogo": "Bergamo (BG)",
+      "regione": "Lombardia",
+      "tipo": "Camminata",
+      "distanza": "Da consultare",
+      "fonte": "https://fiaspbergamo.it/manifestazioni/",
+      "verifica": "organizzatore",
+      "note": "Calendario ludico-motorio FIASP Bergamo e Brescia; verificare modalità di partecipazione con gli organizzatori.; Informazioni soggette a variazioni: consultare la fonte prima di partecipare."
     }
   ]
 }

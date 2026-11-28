@@ -923,6 +923,18 @@
       "fonte": "https://fiaspbergamo.it/manifestazioni/",
       "verifica": "organizzatore",
       "note": "Calendario ludico-motorio FIASP Bergamo e Brescia; verificare modalità di partecipazione con gli organizzatori.; Informazioni soggette a variazioni: consultare la fonte prima di partecipare."
+    },
+    {
+      "id": "auto-30d167c0dce124e2",
+      "nome": "TRAIL DELLA LEPRE BIANCA",
+      "data": "2027-01-06",
+      "luogo": "Ristoro Magna e Bevi - Passo Pian delle Fugazze - Vallarsa",
+      "regione": "Trentino-Alto Adige",
+      "tipo": "Camminata",
+      "distanza": "17 km",
+      "fonte": "https://podopodo.it/trail-running/2027/01/06/trail-della-lepre-bianca/",
+      "verifica": "aggregatore",
+      "note": "Segnalazione da calendario pubblico.; Informazioni soggette a variazioni: consultare la fonte prima di partecipare."
     }
   ]
 }

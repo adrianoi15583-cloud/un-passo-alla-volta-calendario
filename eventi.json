@@ -662,7 +662,7 @@
     },
     {
       "id": "auto-ab2c1d6315726e8e",
-      "nome": "5� MARCIA CORRI BAGNOLO",
+      "nome": "5ª MARCIA CORRI BAGNOLO",
       "data": "2026-11-29",
       "luogo": "Bagnolo Cremasco (CR)",
       "regione": "Lombardia",
@@ -674,7 +674,7 @@
     },
     {
       "id": "auto-b08dbf3a4c92d204",
-      "nome": "46� CAMMINATA PANDINESE",
+      "nome": "46ª CAMMINATA PANDINESE",
       "data": "2027-01-17",
       "luogo": "Pandino (CR) - [Palestra Scuole Elementari]",
       "regione": "Lombardia",
@@ -686,7 +686,7 @@
     },
     {
       "id": "auto-fa7f984ad6643e74",
-      "nome": "20� MARCIA DELLA VALLE DELL'OGLIO",
+      "nome": "20ª MARCIA DELLA VALLE DELL'OGLIO",
       "data": "2027-10-03",
       "luogo": "Soncino (CR) - Via Brescia [Ex Colonia Fluviale Fiume Oglio]",
       "regione": "Lombardia",
@@ -698,7 +698,7 @@
     },
     {
       "id": "auto-158655e1ff6be0cd",
-      "nome": "21� MARCIA UN PAESAGGIO DA RISCOPRIRE",
+      "nome": "21ª MARCIA UN PAESAGGIO DA RISCOPRIRE",
       "data": "2027-10-24",
       "luogo": "Dovera (CR)",
       "regione": "Lombardia",
@@ -710,7 +710,7 @@
     },
     {
       "id": "auto-f9733bc84c0b1c8a",
-      "nome": "40� CAMMINATA PER GLI AMICI SCOMPARSI",
+      "nome": "40ª CAMMINATA PER GLI AMICI SCOMPARSI",
       "data": "2026-12-06",
       "luogo": "Palazzo Pignano (CR)",
       "regione": "Lombardia",
@@ -722,7 +722,7 @@
     },
     {
       "id": "auto-0a9d999a595b2029",
-      "nome": "41� CAMMINATA PER GLI AMICI SCOMPARSI",
+      "nome": "41ª CAMMINATA PER GLI AMICI SCOMPARSI",
       "data": "2027-12-05",
       "luogo": "Palazzo Pignano (CR)",
       "regione": "Lombardia",
@@ -734,7 +734,7 @@
     },
     {
       "id": "auto-671e70d537e8dc99",
-      "nome": "10� MARCIA DEI DUE SANTUARI",
+      "nome": "10ª MARCIA DEI DUE SANTUARI",
       "data": "2027-02-07",
       "luogo": "Castelleone (CR) - [Centro Sportivo Via Dosso]",
       "regione": "Lombardia",
@@ -746,7 +746,7 @@
     },
     {
       "id": "auto-9eec783c43fe5cea",
-      "nome": "8� MARCIA DEI PESETT",
+      "nome": "8ª MARCIA DEI PESETT",
       "data": "2027-03-07",
       "luogo": "Ripalta Guerina (CR)",
       "regione": "Lombardia",
@@ -758,7 +758,7 @@
     },
     {
       "id": "auto-fb64ae36845d2a71",
-      "nome": "3� MARCIA AMICI DI EDO",
+      "nome": "3ª MARCIA AMICI DI EDO",
       "data": "2027-04-18",
       "luogo": "Pizzighettone (CR)",
       "regione": "Lombardia",
@@ -770,7 +770,7 @@
     },
     {
       "id": "auto-b9488cd504b6744a",
-      "nome": "53� MARCIA 2 MULINI",
+      "nome": "53ª MARCIA 2 MULINI",
       "data": "2027-05-01",
       "luogo": "Ticengo (CR)",
       "regione": "Lombardia",
@@ -782,7 +782,7 @@
     },
     {
       "id": "auto-dcd188cebd8f8ee2",
-      "nome": "51� MARCIA DA BAGNOL CREMASC - 20� Trofeo FRANCESCO CAZZAMALI",
+      "nome": "51ª MARCIA DA BAGNOL CREMASC - 20° Trofeo FRANCESCO CAZZAMALI",
       "data": "2027-05-30",
       "luogo": "Bagnolo Cremasco (CR) - [Centro Sportivo]",
       "regione": "Lombardia",
@@ -794,7 +794,7 @@
     },
     {
       "id": "auto-ca1c7b1288197dc1",
-      "nome": "12� CAMMINATA DI TRIGOLO",
+      "nome": "12ª CAMMINATA DI TRIGOLO",
       "data": "2027-06-13",
       "luogo": "Trigolo (CR)",
       "regione": "Lombardia",
@@ -806,7 +806,7 @@
     },
     {
       "id": "auto-26a39f45a4e06c86",
-      "nome": "25� MARCIA DELL'APPRODO",
+      "nome": "25ª MARCIA DELL'APPRODO",
       "data": "2027-07-04",
       "luogo": "Rivolta d'Adda (CR)",
       "regione": "Lombardia",
@@ -818,7 +818,7 @@
     },
     {
       "id": "auto-42d53150ab49d724",
-      "nome": "28� MARCIA PER TUTTE LE ETA'",
+      "nome": "28ª MARCIA PER TUTTE LE ETA'",
       "data": "2027-08-27",
       "luogo": "Soncino (CR) - [Via San Pio]",
       "regione": "Lombardia",
@@ -830,7 +830,7 @@
     },
     {
       "id": "auto-87aefff383b459d1",
-      "nome": "36� MARCIA DI S. ANTONIO",
+      "nome": "36ª MARCIA DI S. ANTONIO",
       "data": "2027-08-29",
       "luogo": "Bolzone (CR)",
       "regione": "Lombardia",
@@ -839,6 +839,66 @@
       "fonte": "https://www.fiaspcremona.it/vai-al-mese/8/2027",
       "verifica": "organizzatore",
       "note": "Fonte FIASP Cremona; organizzatore: G.P. Bolzone"
+    },
+    {
+      "id": "auto-bce603de9b0fc8a5",
+      "nome": "10° CORSA DEI BABBI NATALE A PONZANO VENETO",
+      "data": "2026-11-29",
+      "luogo": "Stadio Comunale di Ponzano Veneto (TV) - Via del bellato 2",
+      "regione": "Veneto",
+      "tipo": "Camminata",
+      "distanza": "6 km, 10 km",
+      "fonte": "https://podopodo.it/corse-e-camminate-non-competitive/2026/11/29/10-corsa-dei-babbi-natale-a-ponzano-veneto/",
+      "verifica": "aggregatore",
+      "note": "Informazioni soggette a variazioni: consultare la fonte prima di partecipare."
+    },
+    {
+      "id": "auto-f20aafaf38fae2d8",
+      "nome": "53° EDIZIONE DE LA CIASPOLADA",
+      "data": "2027-01-05",
+      "luogo": "BORGO D'ANAUNIA",
+      "regione": "Trentino-Alto Adige",
+      "tipo": "Camminata",
+      "distanza": "7 km",
+      "fonte": "https://podopodo.it/ciaspolate-winter-nordic-walking-2/2027/01/05/53-edizione-de-la-ciaspolada/",
+      "verifica": "aggregatore",
+      "note": "Informazioni soggette a variazioni: consultare la fonte prima di partecipare."
+    },
+    {
+      "id": "auto-add142ce54ccba93",
+      "nome": "CORSA DELLA COMETA A CASTELNOVO BARIANO",
+      "data": "2026-12-08",
+      "luogo": "Castelnovo Bariano Piazza Municipale",
+      "regione": "Veneto",
+      "tipo": "Camminata",
+      "distanza": "Km 5 e 10 - pianeggianti",
+      "fonte": "https://www.fiaspverona.org/index.php/calendario-eventi/2026-corsa-cometa/2026-12-08-07-00",
+      "verifica": "organizzatore",
+      "note": "Fonte FIASP Verona; organizzatore: Pro Loco Castelnovo Bariano; nessun annullamento segnalato nella scheda al controllo del 2026-11-28; Informazioni soggette a variazioni: consultare la fonte prima di partecipare."
+    },
+    {
+      "id": "auto-071414d778923a4b",
+      "nome": "50ª MONTEFORTIANA - TROFEO SANT'ANTONIO ABATE - FALCONERI",
+      "data": "2027-01-17",
+      "luogo": "Monteforte D’Alpone (VR) piazza Salvo d'Acquisto",
+      "regione": "Veneto",
+      "tipo": "Camminata",
+      "distanza": "6 pianeggiante - 9 - 14 - 20 collinari km",
+      "fonte": "https://www.fiaspverona.org/index.php/calendario-eventi/2026-montefortiana-2/2027-01-17-00-00",
+      "verifica": "organizzatore",
+      "note": "Fonte FIASP Verona; organizzatore: A.S.D. Valdapone; nessun annullamento segnalato nella scheda al controllo del 2026-11-28; Informazioni soggette a variazioni: consultare la fonte prima di partecipare."
+    },
+    {
+      "id": "auto-73e6000a76328eb9",
+      "nome": "30° EL GIRO DEL TARTARO",
+      "data": "2027-01-10",
+      "luogo": "Vigasio Impianti Sportivi Comunali Via Alazeri 3",
+      "regione": "Veneto",
+      "tipo": "Camminata",
+      "distanza": "7 - 14 km",
+      "fonte": "https://www.fiaspverona.org/index.php/calendario-eventi/2027-el-giro-del-tartaro/2027-01-10-00-00",
+      "verifica": "organizzatore",
+      "note": "Fonte FIASP Verona; organizzatore: Olimpia Club Vigasio A.S.D.; nessun annullamento segnalato nella scheda al controllo del 2026-11-28; Informazioni soggette a variazioni: consultare la fonte prima di partecipare."
     }
   ]
 }
